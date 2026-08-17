@@ -68,6 +68,7 @@ Open [http://localhost:3000](http://localhost:3000)
 Contributions are welcome! Check the [issues](https://github.com/CristianOlivera1/Aura/issues) or open a pull request.
 
 <a href="https://github.com/CristianOlivera1/Aura/graphs/contributors">
+  
   <img src="https://contrib.rocks/image?repo=CristianOlivera1/Aura" />
 </a>
 
