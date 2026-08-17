@@ -70,6 +70,7 @@ Contributions are welcome! Check the [issues](https://github.com/CristianOlivera
 <a href="https://github.com/CristianOlivera1/Aura/graphs/contributors">
   
   <img src="https://contrib.rocks/image?repo=CristianOlivera1/Aura" />
+  
 </a>
 
 ## License
